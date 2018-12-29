@@ -21,12 +21,12 @@ Some of them will be derived from the work of other people. I'll notify it, and 
 
 The 3D parts are made with [OpenSCAD](http://www.openscad.org/). 
 
-As said in the [Licence](LICENCE), the sources are provided as-is, and the 3D parts will evolve. Print them at your risks and prefers the tagged versions.
+As said in the [License](LICENSE), the sources are provided as-is, and the 3D parts will evolve. Print them at your risks and prefers the tagged versions.
 
 ## Thanks
 
 Thank you guys, I'm using your work to do mine:
 
-[imageguy](https://github.com/imageguy): [openscad_primitives](https://github.com/imageguy/openscad_primitives)
-[tonbut](https://github.com/tonbut): [RPiSpectrometer](https://github.com/tonbut/RPiSpectrometer)
-[saarbastler](https://github.com/saarbastler): [library.scad](https://github.com/saarbastler/library.scad)
+- [imageguy](https://github.com/imageguy): [openscad_primitives](https://github.com/imageguy/openscad_primitives)
+- [tonbut](https://github.com/tonbut): [RPiSpectrometer](https://github.com/tonbut/RPiSpectrometer)
+- [saarbastler](https://github.com/saarbastler): [library.scad](https://github.com/saarbastler/library.scad)
